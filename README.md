@@ -1,4 +1,6 @@
 # Operasi Vektor 2D dengan Python
+- Nama: Muhammad Habbibie Zikrillah
+- Prodi: IMT-AI
 - Mata Kuliah: Aljabar Linear
 - Materi Topic ke: 8
 
